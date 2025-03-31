@@ -40,13 +40,27 @@ enter the answer: 68
 
 ## How to Run
 
-1. Compile the program using a C++ compiler:
-   ```
-   g++ -o supercalculator main.cpp
-   ```
-2. Run the compiled program:
-   ```
-   ./supercalculator
-   ```
+## How to Run
 
-Enjoy solving math problems with the Super Calculator!
+### Option 1: Download the Compiled Executable
+1. Download the release file from the [Releases](https://github.com/your-repo/supercalculator/releases) page.
+2. Extract the downloaded file to your desired location.
+3. Run the executable file:
+    - On Windows: Double-click `supercalculator.exe`.
+    - On macOS/Linux: Open a terminal and run:
+      ```
+      ./supercalculator
+      ```
+
+### Option 2: Compile the Program Yourself
+1. Ensure you have a C++ compiler installed (e.g., GCC, Clang, or MSVC).
+2. Clone or download the source code from the repository.
+3. Compile the program using the following command:
+    ```
+    g++ -o supercalculator main.cpp
+    ```
+4. Run the compiled program:
+    ```
+    ./supercalculator
+    ```
+
