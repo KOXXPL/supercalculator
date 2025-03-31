@@ -40,8 +40,6 @@ enter the answer: 68
 
 ## How to Run
 
-## How to Run
-
 ### Option 1: Download the Compiled Executable
 1. Download the release file from the [Releases](https://github.com/your-repo/supercalculator/releases) page.
 2. Extract the downloaded file to your desired location.
